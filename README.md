@@ -1,4 +1,4 @@
-# Cybersecurity Threat Monitoring Dashboard
+# SOC Threat Monitoring & Analysis System
 
 A data analytics project simulating a Security Operations Center (SOC) dashboard.
 
